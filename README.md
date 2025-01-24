@@ -6,6 +6,17 @@ Ele possui apenas a configuração básica do Express com Typescript e o primeir
 
 ## Instalação
 Você pode clonar o repositório e rodar:
+
+SSH:
+```bash
+git clone git@github.com:suporteb7web/node-api-base.git {Coloque o nome desejado para o projeto}
+```
+
+HTTPS:
+```bash
+git clone https://github.com/suporteb7web/node-api-base.git {Coloque o nome desejado para o projeto}
+```
+
 ```bash
 npm install
 ```
